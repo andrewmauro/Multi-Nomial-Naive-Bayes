@@ -1,2 +1,2 @@
 # Multi-Nomial-Naive-Bayes
-Multi Nomial Naive Bayes
+Using a dataset of movie features, we predict whether a given movie review is positive (fresh as opposed to rotten) based on the word content of each review. We apply natural language processing to create an array of features (using both a bag of words and a term frequency / inverse document frequency approach), and apply a multinomial naive bayes model to generate our prediction.
